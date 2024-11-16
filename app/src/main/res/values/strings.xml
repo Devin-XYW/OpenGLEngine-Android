@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenGLEngine</string>
+    <string name="toast">视频录制并保存成功！</string>
+</resources>

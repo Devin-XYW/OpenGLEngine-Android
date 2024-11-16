@@ -1,0 +1,21 @@
+//
+// Created by xuwen on 2022-08-06.
+//
+
+#ifndef OPENGLENGINE_GLBASESAMPLETYPE_H
+#define OPENGLENGINE_GLBASESAMPLETYPE_H
+
+#endif //OPENGLENGINE_GLBASESAMPLETYPE_H
+#define SAMPLE_TYPE                             100
+#define SAMPLE_TYPE_KEY_TEXTURE_2D              SAMPLE_TYPE + 0
+#define SAMPLE_TYPE_KEY_3D_CAMERA               SAMPLE_TYPE + 1
+#define SAMPLE_TYPE_TEXTURE_SCALE               SAMPLE_TYPE + 2
+#define SAMPLE_TYPE_CAMERA                      SAMPLE_TYPE + 3
+#define SAMPLE_TYPE_TRANSITION                  SAMPLE_TYPE + 4
+#define SAMPLE_TYPE_GREENSCREEN                 SAMPLE_TYPE + 5
+#define SAMPLE_TYPE_3D_MODEL                    SAMPLE_TYPE + 6
+#define SAMPLE_TYPE_3D_ANIM_MODEL               SAMPLE_TYPE + 7
+#define SAMPLE_TYPE_3D_ANIM_MODEL_1             SAMPLE_TYPE + 8
+
+#define SAMPLE_TYPE_KEY_SET_TOUCH_LOC           SAMPLE_TYPE + 999
+#define SAMPLE_TYPE_SET_GRAVITY_XY              SAMPLE_TYPE + 1000
